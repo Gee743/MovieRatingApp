@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - #introduction
+- #status
 - #features
 - #installation
 - #configuration
@@ -15,6 +16,9 @@
 - It contains a search function to help get information easily
 - There is a watch list where the user can save their favourite tv shows and movies in one place
 
+## Status
+
+- *Note* : This project was pushed to git after the initial development. Its still under development and may contain errors.
 
 ## Features
 
