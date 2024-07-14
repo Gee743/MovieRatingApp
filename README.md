@@ -33,8 +33,6 @@
 
 ## Installation
 
-Provide a step-by-step guide on how to set up and run your project locally.
-
 1. Clone the repository
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
